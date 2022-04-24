@@ -3,19 +3,26 @@
 </h1>
 
 <p align='center'>
-  A Jr. Python developer from Florianópolis, Brazil.
+  A Jr. Python/Java developer from Florianópolis, Brazil.
 </p>
 <p align='center'>
-  🔭 I’m currently working with Computer Vision.
+  🔭 I’m currently working with Java/PostgreSQL at <a href='https://github.com/laboratoriobridge'>Bridge Lab.</a>.
 </p>
 <p align='center'>
   🌱 I'm currently self learning Data Science. 📖 <a href='https://github.com/joelgrus/data-science-from-scratch'>Data Science from Scratch</a>
 </p>
 
 <p align='center'>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img height="30" title="Python" alt="Python"
+             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img height="30" title="OpenCV" alt="OpenCV"
+             src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"></code>
+  <code><img height="30" title="PostgreSQL" alt="PostgreSQL"
+             src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"></code>
+  <code><img height="30" title="Java" alt="Java"
+             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+  <code><img height="30" title="Vue" alt="Vue"
+             src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
 </p>
 
 <p align='center'>
