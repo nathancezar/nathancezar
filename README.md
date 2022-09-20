@@ -9,7 +9,7 @@
   🔭 I’m currently working with Java/PostgreSQL at <a href='https://github.com/laboratoriobridge'>Bridge Lab.</a>.
 </p>
 <p align='center'>
-  🌱 I'm currently self learning Data Science. 📖 <a href='https://github.com/joelgrus/data-science-from-scratch'>Data Science from Scratch</a>
+  🌱 I'm currently self learning Natural Language Processing (<b>NLP</b>). 📖
 </p>
 
 <p align='center'>
