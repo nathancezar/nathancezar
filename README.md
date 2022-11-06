@@ -53,10 +53,9 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/nathancezar/nathancezar"></a> Nerds have come here 🤓.
-
-
+  ![](https://komarev.com/ghpvc/?username=nathancezar&style=for-the-badge&color=brightgreen&label='+') Nerds have come here 🤓.
+</p>
+  
 <!--
 **nathancezar/nathancezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
