@@ -52,10 +52,12 @@
   📫 How to reach me: <a href='mailto:nathancezar@gmail.com'>nathancezar@gmail.com</a>
 </p>
 
-<p align='center'>
-  ![](https://komarev.com/ghpvc/?username=nathancezar&style=for-the-badge&color=brightgreen&label='+') Nerds have come here 🤓.
-</p>
-  
 <!--
+Nerds have come here 🤓.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nathancezar.nathancezar&left_color=green&right_color=red) 
+
+![](https://komarev.com/ghpvc/?username=nathancezar&label='+')  
+
 **nathancezar/nathancezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
