@@ -6,7 +6,7 @@
   A Jr. Python/Java developer from Florianópolis, Brazil.
 </p>
 <p align='center'>
-  🔭 I’m currently working with Java/PostgreSQL at <a href='https://github.com/laboratoriobridge'>Bridge Lab.</a>.
+  🔭 I’m currently working with Java at <a href='https://www.digitro.com/'>Digitro Tecnologia SA</a>.
 </p>
 <p align='center'>
   🌱 I'm currently self learning Natural Language Processing (<b>NLP</b>). 📖
@@ -51,13 +51,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:nathancezar@gmail.com'>nathancezar@gmail.com</a>
 </p>
-
-<!--
-Nerds have come here 🤓.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nathancezar.nathancezar&left_color=green&right_color=red) 
-
-![](https://komarev.com/ghpvc/?username=nathancezar&label='+')  
-
-**nathancezar/nathancezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- 
+<p align='center'>
+![](https://komarev.com/ghpvc/?username=nathancezar)  
+</p> -->
